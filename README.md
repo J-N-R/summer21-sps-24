@@ -18,5 +18,4 @@ And more! Feel free to contact anyone on our team if you have any questions or w
 ## The Team:
 #### [Jonathan Rivera](http://jrivera-sps-summer21.appspot.com/ "Jonathan's Portfolio")
 #### [Julio Valerio](http://jvalerio-sps-summer21.appspot.com/ "Julio's Portfolio")
-#### Dylan Cummings
 #### Jonathan Tan (Google PA!)
